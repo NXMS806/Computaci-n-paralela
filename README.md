@@ -1,2 +1,2 @@
-# Computaci-n-paralela
+# Computacion-paralela
 Desarrollo de laboratorios
